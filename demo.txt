@@ -1,3 +1,4 @@
 file just created
 second change added
 third change
+text to see in diff
